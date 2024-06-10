@@ -1,378 +1,345 @@
 export default [
+ 
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
-    "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "id": "courtney-love",
+      "name": "Courtney Love",
+      "shortDescription": "Vocalist of the alternative rock band Hole.",
+      "description": "Known for her raw vocal style and intense stage presence, Courtney Love became a prominent figure in the 90s grunge scene with her band, Hole. Delivering hits like \"Celebrity Skin\" and \"Malibu\", she captivated audiences with her fierce performances and unapologetic attitude. Despite her tumultuous personal life often drawing media attention, Love's impact on rock music remains undeniable. Her contributions to the genre, characterized by powerful lyrics and a rebellious spirit, have solidified her place as a significant and influential figure in the history of alternative rock.",
+      "imageUrl": "https://www.futuro.cl/wp-content/uploads/2021/03/Courtney-Love-768x426.jpg",
+      "facts": {
+          "age": "59",
+          "band": "Hole",
+          "birthPlace": "San Francisco, California, United States",
+          "zodiacSign": "Cancer",
+          "genre": "Alternative Rock, Grunge, Punk Rock."
     }
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
-    "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "id": "shirley-manson",
+      "name": "Shirley Manson",
+      "shortDescription": "Vocalist of the alternative rock band Garbage.",
+      "description": "With her distinctive voice and fiery red hair, Shirley Manson fronted the band Garbage, blending alternative rock with electronic influences to create hits like \"Stupid Girl\" and \"Only Happy When It Rains\". Her enigmatic presence and lyrical depth have solidified her status as a rock icon. Manson's unique style and powerful stage performances captivated audiences, making her a standout figure in the 90s music scene. Her contributions to music have left a lasting impact, inspiring countless artists and fans worldwide.",
+      "imageUrl": "https://lh6.googleusercontent.com/proxy/VHUzZklQNj0sfHF5LxQi1ETzTpqIOT9HXgGvLGVnn5qkk7J_zgc74JXa-6wecnQibBk57zWRYTCkM5-O0KOwqzuMm8IAi5Ln05LPr0QiImNveE5aXoVduwe2qTZLtMuPKf1HxUry1jYKGt2KbBSeGFhIyWcB6DrzyFti5rj8oiXwnnD_we20uuYtaTdJRprc5KhDMNe4k2dfglyaAoahtDC0j_cwEg",
+      "facts": {
+          "age": "57",
+          "band": "Garbage",
+          "birthPlace": "Edinburgh, Scotland",
+          "zodiacSign": "Virgo",
+          "genre": "Alternative Rock, Electronic Rock, Post-Grunge."
     }
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
-    "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "id": "dolores-oriordan",
+      "name": "Dolores O'Riordan",
+      "shortDescription": "Vocalist of the alternative rock band The Cranberries.",
+      "description": "Dolores O'Riordan's ethereal voice and emotive lyrics propelled The Cranberries to global fame with songs like \"Linger\" and \"Zombie\". Her unique vocal style, characterized by its haunting quality and impressive range, along with her poignant songwriting, left an indelible mark on the music world. O'Riordan's remarkable ability to convey deep emotion and connect with audiences made her an iconic figure in rock music. Her enduring legacy continues to inspire countless musicians and devoted fans alike, even after her untimely passing..",
+      "imageUrl": "https://www.los90.cl/site/wp-content/uploads/2018/02/dolores-Oriordan-cranberries.jpg",
+      "facts": {
+          "age": "Deceased (1971-2018)",
+          "band": "The Cranberries",
+          "birthPlace": "Ballybricken, County Limerick, Ireland",
+          "zodiacSign": "Virgo",
+          "genre": "Alternative Rock, Post-Grunge, Folk Rock."
     }
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
-    "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "id": "gwen-stefani",
+      "name": "Gwen Stefani",
+      "shortDescription": "Vocalist of the rock band No Doubt.",
+      "description": "Gwen Stefani, the charismatic frontwoman of No Doubt, left an indelible mark on the music scene with her unique fusion of punk, ska, and pop. Songs like \"Just a Girl\" and \"Don't Speak\" catapulted her to fame, showcasing her dynamic stage presence and unmistakable voice. Beyond her musical talent, Stefani's eclectic fashion sense became iconic, further solidifying her influence on 90s rock culture. Her blend of rebellious spirit and infectious energy continues to resonate with audiences, cementing her status as a legendary figure in the music industry.",
+      "imageUrl": "https://www.fmdos.cl/wp-content/uploads/2016/05/Gwen-Stefani-2016-press-billboard-650-2.jpg",
+      "facts": {
+          "age": "54",
+          "band": "No Doubt",
+          "birthPlace": "Fullerton, California, United States",
+          "zodiacSign": "Libra",
+          "genre": "Ska Punk, Pop Rock, Alternative Rock."
+    }
+  },
+  
+  {
+      "id": "debbie-harry",
+      "name": "Debbie Harry",
+      "shortDescription": "Vocalist of the punk rock band Blondie.",
+      "description": "Debbie Harry, the iconic frontwoman of Blondie, is synonymous with a groundbreaking fusion of punk, new wave, and pop that revolutionized the music scene. Her unforgettable voice and effortless coolness have immortalized her as a figure of rock history. Hits like \"Heart of Glass\" and \"Call Me\" stand as timeless classics, showcasing Harry's unparalleled talent and captivating presence. Beyond her musical prowess, Harry's influence extends to fashion and culture, embodying the spirit of rebellion and individuality that defines rock and roll. Her legacy continues to inspire generations of artists and fans alike, solidifying her status as an enduring icon.",
+      "imageUrl": "https://cdn2.picryl.com/photo/1977/03/01/blondie1977-b75f23-1024.jpg",
+      "facts": {
+          "age": "78",
+          "band": "Blondie",
+          "birthPlace": "Miami, Florida, United States",
+          "zodiacSign": "Cancer",
+          "genre": "Punk Rock, New Wave, Pop Rock."
     }
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
-    "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "id": "amy-lee",
+      "name": "Amy Lee",
+      "shortDescription": "Vocalist of the gothic metal band Evanescence.",
+      "description": "Amy Lee's ethereal vocals and masterful piano skills propelled Evanescence's \"Fallen\" album to monumental success. Through hauntingly powerful tracks like \"Bring Me to Life\" and \"My Immortal\", Lee captivated audiences with her emotive performances and raw vulnerability. Her dramatic flair and unwavering authenticity have endeared her to a dedicated fanbase, who resonate deeply with her introspective lyrics and haunting melodies. Beyond mere music, Lee's impact extends to a profound connection with listeners, forging an enduring legacy in the realm of alternative rock.",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRp92PW9aUeUHUdHa485YA7ywtAPJ2umTqSn2sBarPwnd2-n_X9QoZ70nJ2_aAOmrKDXsZ4pAX3GtmlFqMa8DpEqEb0PMxpxwjZZ1usnOs6xMKCkeLUzzaW8JKQFy4VYDzefVif9h2-CgB/s1600/1280x720-L9F.jpg",
+      "facts": {
+          "age": "42",
+          "band": "Evanescence",
+          "birthPlace": "Riverside, California, United States",
+          "zodiacSign": "Sagittarius",
+          "genre": "Gothic Metal, Alternative Metal, Rock."
     }
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+      "id": "cristina-scabbia",
+      "name": "Cristina Scabbia",
+      "shortDescription": "Vocalist of the gothic metal band Lacuna Coil.",
+      "description": "Cristina Scabbia's dynamic voice and magnetic stage presence have been pivotal to Lacuna Coil's triumphs, notably with acclaimed albums like \"Comalies\" and \"Delirium\". Her ability to seamlessly blend melodic nuances with powerful vocals has solidified her position as a prominent figure in gothic metal. Tracks such as \"Comalies\" and \"Delirium\" stand as testament to Scabbia's vocal prowess and the band's musical depth. Beyond her contributions to the genre, Scabbia's influence transcends, inspiring both fans and fellow musicians alike, marking her as an indispensable force in the landscape of modern metal.",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAIX5AEChrNt1uMKBtlQ6ZLVCgqGxuoCvzXhaef-xvGAEs5KIJWEjZkYPTIBRuJgTWFpVwm0DK71-RKfskbhEDBqjRpa1moOfeVVB4kf2m95KYEDcVMpmbNsxbHktKMsjHcJ8uxGiBSgzh/s1600/71708370_2736314579714469_8423324796179185664_o+%25282%2529.jpg",
+      "facts": {
+          "age": "51",
+          "band": "Lacuna Coil",
+          "birthPlace": "Milan, Italy",
+          "zodiacSign": "Gemini",
+          "genre": "Gothic Metal, Alternative Metal."
+     }
+  },
+  {
+      "id": "sharon-den-adel",
+      "name": "Sharon den Adel",
+      "shortDescription": "Vocalist of the symphonic metal band Within Temptation.",
+      "description": "Sharon den Adel's ethereal vocals and enchanting stage presence have served as the cornerstone of Within Temptation's triumphs, prominently featured in albums such as \"Mother Earth\" and \"Hydra\". Within the symphonic metal realm, den Adel's distinctive ability to seamlessly fuse operatic tones with rock elements has elevated her to an iconic status. Tracks like \"Mother Earth\" and \"Hydra\" exemplify her unparalleled talent and the band's musical depth. Beyond their musical contributions, den Adel and Within Temptation have cultivated a devoted global following, solidifying their legacy as pioneers of the genre.",
+      "imageUrl": "https://consequence.net/wp-content/uploads/2019/03/Sharon-den-Adel.png",
+      "facts": {
+          "age": "49",
+          "band": "Within Temptation",
+          "birthPlace": "Waddinxveen, Netherlands",
+          "zodiacSign": "Cancer",
+          "genre": "Symphonic Metal, Gothic Metal."
+     }
+  },
+  {
+      "id": "tarja-turunen",
+      "name": "Tarja Turunen",
+      "shortDescription": "Former vocalist of the symphonic metal band Nightwish.",
+      "description": "Tarja Turunen's operatic voice was pivotal in shaping Nightwish's signature sound during their formative years, prominently showcased in albums like \"Once\" and \"Century Child\". Her departure from the band marked the beginning of a prosperous solo journey. Turunen's classically trained vocals not only distinguished Nightwish within the metal sphere but also transcended genre boundaries, infusing a distinct dimension into their music. Her departure from Nightwish in no way diminished her impact, as her solo career continued to flourish, cementing her status as an influential figure in the realm of metal music.",
+      "imageUrl": "https://www.rockaxis.com/img/newsList/1135121.jpg",
+      "facts": {
+          "age": "46",
+          "band": "Solo (formerly Nightwish)",
+          "birthPlace": "Kitee, Finland",
+          "zodiacSign": "Leo",
+          "genre": "Symphonic Metal, Classical Crossover."
+     }
+  },
+  
+  {
+      "id": "angela-gossow",
+      "name": "Angela Gossow",
+      "shortDescription": "Former vocalist of the melodic death metal band Arch Enemy.",
+      "description": "Angela Gossow blazed a trail as one of death metal's pioneering female vocalists, unleashing formidable growls and commanding performances during her tenure with Arch Enemy. Her fearless presence and powerful stage persona shattered stereotypes, establishing her as a trailblazer in extreme metal. Gossow's groundbreaking contributions to the genre not only challenged conventions but also inspired a new generation of musicians. As one of the first prominent women in death metal, her legacy extends far beyond her time with Arch Enemy, leaving an indelible mark on the metal community as a whole.",
+      "imageUrl": "https://www.themetalcircus.com/wp-content/uploads/2014/03/Arch-Enemy-Angela-Gossow-001.jpg",
+      "facts": {
+          "age": "49",
+          "band": "Solo (formerly Arch Enemy)",
+          "birthPlace": "Cologne, Germany",
+          "zodiacSign": "Scorpio",
+          "genre": "Melodic Death Metal, Extreme Metal."
+     }
+  },
+  {
+      "id": "simone-simons",
+      "name": "Simone Simons",
+      "shortDescription": "Vocalist of the symphonic metal band Epica.",
+      "description": "Simone Simons, with her mesmerizing operatic vocals and authoritative stage presence, has been instrumental in propelling Epica to the forefront of symphonic metal. Across albums such as \"The Quantum Enigma\" and \"Omega\", her remarkable talent shines, seamlessly merging classical and metal influences to craft a lush, evocative sound. Simons' dynamic range and emotive delivery imbue Epica's music with depth and power, captivating audiences worldwide. Her contributions to the genre have solidified Epica's position as a leading force in symphonic metal, earning her widespread acclaim and admiration within the metal community.",
+      "imageUrl": "https://res.cloudinary.com/dvab3roqk/image/upload/v1696237790/simone-simons-epica-scaled_wzo4pl.jpg",
+      "facts": {
+          "age": "39",
+          "band": "Epica",
+          "birthPlace": "Hoensbroek, Netherlands",
+          "zodiacSign": "Capricorn",
+          "genre": "Symphonic Metal, Progressive Metal."
+     }
+  }, 
+  {
+      "id": "hayley-williams",
+      "name": "Hayley Williams",
+      "shortDescription": "Vocalist of the alternative rock band Paramore.",
+      "description": "Hayley Williams' dynamic stage presence and commanding vocals have propelled Paramore to the zenith of popularity throughout the 2000s and 2010s. Their chart-topping hits such as \"Misery Business\" and \"Ain't It Fun\" showcase Williams' remarkable range and emotive delivery, captivating audiences across the globe. Beyond her vocal prowess, Williams' authenticity and charisma resonate deeply with fans, cementing Paramore's status as one of the most beloved bands of their era. With an unrivaled energy and a penchant for anthemic melodies, Williams has left an indelible mark on the music industry, inspiring countless listeners with her passion and talent.",
+      "imageUrl": "https://web.cetep.cl/wp-content/uploads/2020/02/Hayley-Williams.jpger",
+      "facts": {
+          "age": "35",
+          "band": "Paramore",
+          "birthPlace": "Meridian, Mississippi, United States",
+          "zodiacSign": "Capricorn",
+          "genre": "Alternative Rock, Pop Punk."
+     }
+  },
+  
+  {
+    "id": "karen-o",
+    "name": "Karen O",
+    "shortDescription": "Vocalist of the indie rock band Yeah Yeah Yeahs.",
+    "description": "Karen O's unique voice and electrifying stage presence have been the driving force behind Yeah Yeah Yeahs' rise to prominence. With a reputation for avant-garde style and raw energy, she has spearheaded the creation of indie rock anthems such as \"Maps\" and \"Heads Will Roll\". Karen O's charismatic persona and distinctive vocal delivery have captivated audiences worldwide, earning her widespread acclaim and cementing Yeah Yeah Yeahs' status as pioneers of the genre. Her fearless creativity continues to inspire fans and fellow musicians alike, leaving an enduring legacy in the world of indie rock.",
+    "imageUrl": "https://media.newyorker.com/photos/631b6cc98c79941b48610065/16:9/w_2078,h_1169,c_limit/KarenO_JK_Selects-Lead-Centered.jpglder",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+     "age": "45",
+      "band": "Yeah Yeah Yeahs",
+      "birthPlace": "Busan, South Korea",
+      "zodiacSign": "Sagittarius",
+      "genre": "Indie Rock, Art Punk, Garage Rock."
+    }
+  }, 
+  {
+    "id": "lizzy-hale",
+    "name": "Lzzy Hale",
+    "shortDescription": "Vocalist of the hard rock band Halestorm.",
+    "description": "Lzzy Hale's formidable vocals and magnetic stage presence have propelled Halestorm to the forefront of modern hard rock. With chart-topping hits such as \"I Miss the Misery\" and \"Love Bites (So Do I)\", she showcases her powerhouse voice and unwavering charisma. Hale's fearless attitude and dynamic performances have garnered critical acclaim and fostered a devoted fanbase. Her ability to blend vulnerability with strength resonates deeply with audiences, solidifying her position as a leading figure in the genre. With each electrifying show, Lzzy Hale reaffirms her status as a powerhouse in the world of rock music.",
+    "imageUrl": "https://i0.wp.com/www.rockzonemag.com/wp-content/uploads/2022/06/Lzzy-Hale-bisexual-foto-2022.gif?fit=1023%2C552&ssl=1laceholder",
+    "facts": {
+        "age": "39",
+        "band": "Halestorm",
+        "birthPlace": "Red Lion, Pennsylvania, United States",
+        "zodiacSign": "Libra",
+        "genre": "Hard Rock, Heavy Metal."
+    }
+  }, 
+  {
+  "id": "joan-jett",
+  "name": "Joan Jett",
+  "shortDescription": "Vocalist of Joan Jett & the Blackhearts, former member of The Runaways.",
+  "description": "Joan Jett's iconic status in rock music is attributed to her gritty voice and unyielding rebelliousness. Initially rising to fame with The Runaways and later with her band The Blackhearts, she delivered unforgettable hits such as \"Bad Reputation\" and \"I Love Rock 'n' Roll.\" Jett's pioneering role in rock history extends far beyond her music, inspiring countless musicians with her fearless attitude and uncompromising style. Her legacy as a rock legend continues to resonate, proving her enduring influence on the genre and cementing her status as an icon.",
+  "imageUrl": "https://www.concierto.cl/wp-content/uploads/2022/03/Joan-Jett-1-768x432.webp",
+  "facts": {
+      "age": "65",
+      "band": "Joan Jett & the Blackhearts",
+      "birthPlace": "Wynnewood, Pennsylvania, United States",
+      "zodiacSign": "Virgo",
+      "genre": "Rock, Punk Rock."
+   }
+  },
+  
+  {
+    "id": "tatiana-shmaylyuk",
+    "name": "Tatiana Shmaylyuk",
+    "shortDescription": "Vocalist of the metalcore band Jinjer.",
+    "description": "Tatiana Shmaylyuk's remarkable vocal prowess has established Jinjer as a standout force in the metalcore genre. With an impressive range, she seamlessly transitions between guttural growls and clean singing, showcasing her versatility and skill. Shmaylyuk's commanding stage presence and innovative vocal techniques have garnered widespread acclaim from fans and critics alike. Her ability to captivate audiences with her powerful performances and dynamic persona has solidified her position as a leading figure in modern metal. With each electrifying show, Shmaylyuk continues to push boundaries and elevate Jinjer to new heights, leaving an indelible mark on the metalcore scene.",
+    "imageUrl": "https://www.nacionrock.com/wp-content/uploads/Tatiana-Shmaylyuk-fotos-sexys-e1713390230579.jpg",
+    "facts": {
+      "age": "36",
+      "band": "Jinjer",
+      "birthPlace": "Donetsk, Ukraine",
+      "zodiacSign": "Aries",
+      "musicGenre": "Metalcore, Progressive Metal"
+    }
+  }, 
+  
+  {
+      "id": "courtney-laplante",
+      "name": "Courtney LaPlante",
+      "shortDescription": "Vocalist of the metalcore band Spiritbox.",
+      "description": "Courtney LaPlante's emergence as the frontwoman of Spiritbox has propelled the band to rapid acclaim within the metalcore scene. Renowned for her versatile vocals and emotionally charged delivery, LaPlante has swiftly solidified Spiritbox as a rising star. Her capacity to evoke profound emotion through both harsh growls and hauntingly clean vocals has struck a chord with a diverse audience. LaPlante's dynamic presence on stage and ability to connect with listeners on a visceral level have contributed to Spiritbox's meteoric rise. With each performance, LaPlante continues to demonstrate her undeniable talent and leaves an enduring impact on the metalcore community.",
+      "imageUrl": "https://i.cbc.ca/1.7102887.1706885813!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_940/courtney-laplante-of-spiritbox.jpg",
+      "facts": {
+        "age": "34",
+        "band": "Spiritbox",
+        "birthPlace": "Victoria, British Columbia, Canada",
+        "zodiacSign": "Aquarius",
+        "musicGenre": "Metalcore, Progressive Metal"
     }
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
-    "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+        "id": "jenna-mcdougall",
+        "name": "Jenna McDougall",
+        "shortDescription": "Vocalist of the pop punk band Tonight Alive.",
+        "description": "Jenna McDougall's dynamic presence and genuine lyricism have propelled Tonight Alive to prominence within the pop punk scene. Known for her energetic performances and heartfelt lyrics, McDougall has established the band as a significant force. Chart-topping hits like \"The Edge\" and \"Lonely Girl\" showcase her distinctive voice and passionate delivery, forging a profound connection with fans worldwide. McDougall's authenticity and raw emotion resonate deeply, making Tonight Alive a staple in the hearts of many. With each performance, McDougall continues to captivate audiences, solidifying Tonight Alive's enduring legacy in pop punk music.",
+        "imageUrl": "https://static.wixstatic.com/media/cfd294_a712d976a3ec47a5a5b46845164f96e0~mv2.jpg/v1/fill/w_640,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cfd294_a712d976a3ec47a5a5b46845164f96e0~mv2.jpg",
+        "facts": {
+          "age": "31",
+          "band": "Tonight Alive",
+          "birthPlace": "Sydney, Australia",
+          "zodiacSign": "Cancer",
+          "musicGenre": "Pop Punk, Alternative Rock"
     }
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "id": "maria-brink",
+    "name": "Maria Brink",
+    "shortDescription": "Vocalist of the metal band In This Moment.",
+    "description": "Maria Brink's commanding stage presence and potent vocal prowess have propelled In This Moment to the forefront of the metal scene. Renowned for her theatrical performances, Brink's magnetic energy captivates audiences while her powerful voice leaves a lasting impact. In This Moment's distinctive sound, blending haunting melodies with aggressive vocals, has earned them critical acclaim and a devoted fanbase. Brink's ability to seamlessly intertwine vulnerability with ferocity adds depth to their music, resonating with listeners. With each performance, Brink and In This Moment continue to push boundaries, solidifying their status in the metal genre.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/q9GSc5agL6vAeK5Wfk7mUK.jpg",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "age": "46",
+      "band": "In This Moment",
+      "birthPlace": "Schenectady, New York, United States",
+      "zodiacSign": "Sagittarius",
+      "musicGenre": "Metalcore, Alternative Metal"
     }
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "id": "alissa-white-gluz",
+    "name": "Alissa White-Gluz",
+    "shortDescription": "Vocalist of the melodic death metal band Arch Enemy.",
+    "description": "Alissa White-Gluz's formidable growls and compelling stage presence have injected new life into Arch Enemy since her arrival. With a dynamic vocal range and fierce performances, she has swiftly cemented her status as one of metal's foremost figures. White-Gluz's powerful presence and unwavering intensity command attention, electrifying audiences worldwide. Her seamless fusion of aggression and melody resonates deeply with fans, revitalizing the band's sound and reigniting their prominence in the metal scene. With each performance, White-Gluz reaffirms her position as a leading force in metal, leaving an indelible mark on the genre.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTDAMzfmVbou2ryToZn0-s3QoIBk0GZwu0D3iLyUoPQzH8UEuQ7i_eKpDW5NctAd7C8_Cky6kF-krYJ5PG9aOX1Weiy9EQLxns1LxbO4AR_Hk6qIr9Fk1T30SltzOex4BTRY7wQbQduSL/s1280/ALISSA-WHITE-GLUZ.jpg",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "age": "38",
+      "band": "Arch Enemy",
+      "birthPlace": "Montreal, Quebec, Canada",
+      "zodiacSign": "Leo",
+      "musicGenre": "Melodic Death Metal, Metalcore"
     }
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "id": "taylor-momsen",
+    "name": "Taylor Momsen",
+    "shortDescription": "Vocalist of the hard rock band The Pretty Reckless.",
+    "description": "Taylor Momsen's evolution from actress to rock star has been marked by The Pretty Reckless's meteoric rise. With a gritty voice and rebellious stage persona, she has garnered acclaim for the band, propelled by hits like \"Make Me Wanna Die\" and \"Heaven Knows\". Momsen's seamless transition into the music industry showcases her raw talent and unapologetic authenticity. Her captivating performances and powerful lyrics resonate with audiences, solidifying The Pretty Reckless as a formidable presence in rock music. With each release, Momsen continues to defy expectations, establishing herself as a force to be reckoned with in the industry.",
+    "imageUrl": "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2020/12/Enoh7K7yBc53cAqU6prctM-1200-80.jpg",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "age": "30",
+      "band": "The Pretty Reckless",
+      "birthPlace": "St. Louis, Missouri, United States",
+      "zodiacSign": "Leo",
+      "musicGenre": "Hard Rock, Post-Grunge"
     }
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "id": "floor-jansen",
+    "name": "Floor Jansen",
+    "shortDescription": "Vocalist of the symphonic metal band Nightwish.",
+    "description": "Floor Jansen's addition to Nightwish has heralded a new era of sonic richness for the band. With her commanding and versatile voice, she has elevated Nightwish's music to unprecedented heights. Jansen's remarkable ability to effortlessly transition between operatic grandeur and raw rock vocals has garnered widespread acclaim within the symphonic metal community. Her presence injects a potent energy into Nightwish's performances, captivating audiences worldwide. With Jansen at the helm, Nightwish continues to push boundaries and redefine the genre, solidifying their status as symphonic metal icons.",
+    "imageUrl": "https://headbangersla.com/wp-content/uploads/2020/07/5c8e348f50ed9d57766ea484_homeheader2.jpg",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+    "age": "43",
+    "band": "Nightwish",
+    "birthPlace": "Goirle, Netherlands",
+    "zodiacSign": "Pisces",
+    "musicGenre": "Symphonic Metal, Progressive Metal"
     }
   },
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "id": "brody-dalle",
+    "name": "Brody Dalle",
+    "shortDescription": "Vocalist of the punk rock band The Distillers.",
+    "description": "Brody Dalle's unmistakable raw, raspy vocals and unapologetic punk rock ethos have propelled The Distillers to the forefront of the punk scene. With anthems like \"City of Angels\" and \"Drain the Blood\", Dalle's gritty delivery and rebellious energy have left an indelible mark. Her fearless approach and visceral lyrics resonate deeply with fans, solidifying The Distillers as a formidable force in punk music. Dalle's uncompromising attitude and magnetic stage presence continue to inspire a new generation of punk rockers, ensuring their legacy endures in the annals of punk history.",
+    "imageUrl": "https://indierocks.sfo3.digitaloceanspaces.com/wp-content/uploads/2023/07/Brody-Dalle-2023.jpg",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+      "age": "45",
+      "band": "The Distillers",
+      "birthPlace": "Melbourne, Australia",
+      "zodiacSign": "Capricorn",
+      "musicGenre": "Punk Rock, Alternative Rock"
     }
   },
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "id": "lacey-sturm",
+    "name": "Lacey Sturm",
+    "shortDescription": "Former vocalist of the alternative metal band Flyleaf.",
+    "description": "Lacey Sturm's emotive vocals and poignant songwriting served as the beating heart of Flyleaf's meteoric rise to fame. Hits such as \"All Around Me\" and \"I'm So Sick\" stand as testaments to her profound talent and emotional depth. Sturm's impassioned performances and raw storytelling struck a chord with fans, forging a deep and enduring connection. Her ability to convey raw emotion through her music transcended boundaries, earning Flyleaf critical acclaim and a dedicated following. Sturm's legacy as a frontwoman continues to resonate, leaving an indelible impact on the rock music landscape.",
+    "imageUrl": "https://radiou.com/wp-content/uploads/2021/12/Lacey-Sturm.jpg",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
+      "age": "42",
+      "band": "Solo (formerly Flyleaf)",
+      "birthPlace": "Homestead, Florida, United States",
+      "zodiacSign": "Virgo",
+      "musicGenre": "Alternative Metal, Post-Grunge"
     }
-  },
-  {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
-    "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
-    }
-  },
-  {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
-    }
-  },
-  {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
-    "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
-    }
-  },
-  {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
-    "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
-    }
-  },
-  {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
-    "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
-  },
-  {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
-    "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
-  },
-  {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
-    "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
-  },
-  {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
-    "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
-  },
-  {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
-    "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
-  },
-  {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
-    "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
-  },
-  {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
-    "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": ""
-    }
-  }
-];
+  } 
+  ]; 
+  
